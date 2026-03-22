@@ -1,0 +1,4 @@
+﻿  CompGraf.cpp
+C:\Users\marti\source\repos\Okrugin_MA_ASUb-24-2\CompGraf\CompGraf.cpp(120,29): warning C4244: инициализация: преобразование "GLint" в "float", возможна потеря данных
+C:\Users\marti\source\repos\Okrugin_MA_ASUb-24-2\CompGraf\CompGraf.cpp(121,15): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+  CompGraf.vcxproj -> C:\Users\marti\source\repos\Okrugin_MA_ASUb-24-2\x64\Debug\CompGraf.exe

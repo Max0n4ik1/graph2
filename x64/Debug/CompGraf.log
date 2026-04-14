@@ -1,1 +1,23 @@
-﻿  CompGraf.vcxproj -> C:\Users\marti\source\repos\Okrugin_MA_ASUb-24-2\x64\Debug\CompGraf.exe
+﻿     Создается библиотека C:\Users\marti\source\repos\Okrugin_MA_ASUb-24-2\x64\Debug\CompGraf.lib и объект C:\Users\marti\source\repos\Okrugin_MA_ASUb-24-2\x64\Debug\CompGraf.exp
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+LINK : warning LNK4217: Символ "glewInit", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewBindBuffer", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewBufferData", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewGenBuffers", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewAttachShader", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewCompileShader", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewCreateProgram", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewCreateShader", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewDeleteShader", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewEnableVertexAttribArray", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewGetUniformLocation", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: void __cdecl Shader::setMat4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct glm::mat<4,4,float,0> const &)const " (?setMat4@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBU?$mat@$03$03M$0A@@glm@@@Z)".
+LINK : warning LNK4217: Символ "__glewLinkProgram", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewShaderSource", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewUniform4f", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: void __cdecl Shader::setVec4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float,float,float,float)const " (?setVec4@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MMMM@Z)".
+LINK : warning LNK4217: Символ "__glewUniformMatrix4fv", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: void __cdecl Shader::setMat4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct glm::mat<4,4,float,0> const &)const " (?setMat4@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBU?$mat@$03$03M$0A@@glm@@@Z)".
+LINK : warning LNK4217: Символ "__glewUseProgram", определенный в "glew.obj", импортирован "CompGraf.obj" в функции ""public: void __cdecl Shader::use(void)" (?use@Shader@@QEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewVertexAttribPointer", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewBindVertexArray", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewGenVertexArrays", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewExperimental", определенный в "glew.obj", импортирован "CompGraf.obj" в функции "main".
+  CompGraf.vcxproj -> C:\Users\marti\source\repos\Okrugin_MA_ASUb-24-2\x64\Debug\CompGraf.exe
